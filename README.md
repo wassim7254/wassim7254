@@ -21,12 +21,12 @@ const ENGINEER = {
   security: "AppSec / Pentesting",
   motto: "Secure by Design."
 };
-🐍 CONTRIBUTION_SNAKE_PROCESSOR
+
 <div align="center">
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/wassim7254/wassim7254/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
 </div>
 
-⚡ TECHNICAL ARSENAL
+
 <div align="center">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js_15-000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/React_19-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" />
@@ -40,7 +40,6 @@ const ENGINEER = {
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/OWASP-000000%3Fstyle%3Dfor-the-badge%26logo%3Dowasp%26logoColor%3Dwhite" />
 </div>
 
-📊 NEURAL NETWORK STATS
 <div align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dwassim7254%26show_icons%3Dtrue%26theme%3Dmatrix%26hide_border%3Dtrue%26count_private%3Dtrue" height="175" />
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dwassim7254%26layout%3Dcompact%26theme%3Dmatrix%26hide_border%3Dtrue" height="175" />
