@@ -1,84 +1,110 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Wassim+Ahabchane;Senior+Software+%26+Cyber+Security+Engineer;Architecting+Secure+SaaS+Solutions;Secure+by+Design,+Scalable+by+Default" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=250&section=header&text=WASSIM%20AHABCHANE&fontSize=75&animation=twinkling&fontAlignY=40&fontColor=00FF41&desc=SENIOR%20CYBER%20%26%20SOFTWARE%20ENGINEER&descAlignY=65&descFontSize=22" width="100%" />
 
   <br/>
 
-  <a href="https://www.linkedin.com/in/wassim-ahabchane" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:wwassim.wassim2009@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/_w1ssimos_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=750&lines=Building+Secure+Enterprise+SaaS;Next.js+15+Edge+Architect;Senior+Cyber+Security+Specialist;Decrypting+The+Future+of+Web" />
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/wassim-ahabchane"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:wwassim.wassim2009@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://instagram.com/_w1ssimos_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  </p>
 </div>
 
-<br/><br/>
+---
+
+### 🖥️ [ROOT] / SYSTEM / DASHBOARD
 
 <div align="center">
-  <pre align="left" style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d; color: #c9d1d9; font-family: 'Fira Code', monospace; width: 80%; margin: 0 auto;">
-<span style="color: #ff7b72;">const</span> <span style="color: #d2a8ff;">engineer</span> <span style="color: #ff7b72;">=</span> {
-    name: <span style="color: #a5d6ff;">"Wassim Ahabchane"</span>,
-    role: <span style="color: #a5d6ff;">"Senior Software & Cyber Security Engineer"</span>,
-    location: <span style="color: #a5d6ff;">"Morocco 🇲🇦"</span>,
-    focus: [<span style="color: #a5d6ff;">"Full-Stack Development"</span>, <span style="color: #a5d6ff;">"Application Security"</span>, <span style="color: #a5d6ff;">"AI Integration"</span>],
-    projects: [<span style="color: #a5d6ff;">"Menu-App"</span>, <span style="color: #a5d6ff;">"Tifa"</span>],
-    motto: <span style="color: #a5d6ff;">"Building high-performance, unbreakable digital products 🛡️"</span>
+<table border="0">
+<tr>
+<td width="55%" valign="top">
+
+```javascript
+/**
+ * MISSION_STATUS: ACTIVE 🟢
+ */
+const ENGINEER = {
+  identity: "Wassim Ahabchane",
+  role: "Senior Full Stack & Cyber",
+  origin: "Morocco 🇲🇦",
+  stack: ["Next.js 15", "React 19"],
+  security: "AppSec / Pentesting",
+  motto: "Secure by Design."
 };
-  </pre>
+</td>
+<td width="45%" valign="top">
+
+Bash
+# SYSTEM_LOGS
+> Firewall: ENABLED
+> Vulnerabilities: 0 FOUND
+> Server_Uptime: 99.99%
+> Region: MEA_WEST_1
+> Auth_Protocol: AES-256
+</td>
+</tr>
+</table>
 </div>
 
-<br/>
+🐍 CONTRIBUTION_SNAKE_PROCESSOR
+<div align="center">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/wassim7254/wassim7254/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
+</div>
 
-<h2 align="center">⚡ TECHNICAL ARSENAL & SECURITY</h2>
+⚡ TECHNICAL ARSENAL (SECURE_STACK)
+<div align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js_15-000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React_19-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-557C94%3Fstyle%3Dfor-the-badge%26logo%3Dkalilinux%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/OWASP-000000%3Fstyle%3Dfor-the-badge%26logo%3Dowasp%26logoColor%3Dwhite" />
+</div>
+
+📊 NEURAL NETWORK STATS
+<div align="center">
+<table border="0">
+<tr>
+<td align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dwassim7254%26show_icons%3Dtrue%26theme%3Dmatrix%26hide_border%3Dtrue%26count_private%3Dtrue" height="175" /></td>
+<td align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dwassim7254%26layout%3Dcompact%26theme%3Dmatrix%26hide_border%3Dtrue" height="175" /></td>
+</tr>
+</table>
+
+
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dwassim7254%26theme%3Dmatrix%26hide_border%3Dtrue" width="100%" />
+</div>
+
+📉 ACTIVITY PULSE
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dwassim7254%26theme%3Dmatrix%26hide_border%3Dtrue%26area%3Dtrue" width="100%" />
+</p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dwassim7254%26color%3D00FF41%26style%3Dfor-the-badge%26label%3DACCESS_LOGS" />
+
+
+<p style="color: #00FF41; font-family: monospace;"><b>// CONNECTION_TERMINATED: SYSTEM_SECURE</b></p>
+<a href="mailto:wwassim.wassim2009@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/INITIATE_HANDSHAKE-00FF41%3Fstyle%3Dfor-the-badge%26logo%3Dsecurity%26logoColor%3Dblack" />
+</a>
 </div>
 
-<br/><br/>
 
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
+-----
 
-| Project | Domain | Key Tech | Status |
-| :--- | :--- | :--- | :--- |
-| **📱 Menu-App** | Full-Stack SaaS | `TypeScript` `Next.js` `SQL` | 🟢 Active / Private |
-| **🛡️ Tifa** | Core Infrastructure | `TypeScript` `Cyber-focused Backend` | 🟡 In Development |
-| **🤖 AI Systems** | Intelligent Integration | `Python` `LLM APIs` | 🟢 Active |
+### 🛠️ Kifach t-zbt l-mndar:
 
-<br/><br/>
+1.  Kopi had l-code kaml.
+2.  Sir l-profile README dyalk o dir **Edit**.
+3.  Msa7 kolchi o dir **Paste**.
+4.  Gha tl9a dik l-af3a (Snake) khdama l-fo9 7it l-workflow dyalk t-ran-na s7i7\!
 
-<h2 align="center">📊 SYSTEM METRICS</h2>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wassim7254&show_icons=true&theme=matrix&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim7254&layout=compact&theme=matrix&hide_border=false" />
-</div>
+Daba mlli bnadem ghadi y-dkhol l-profile dyalk, ghadi y-chouf banner dyal hacker nady, terminal fih l-info dyalk, le3ba k-t-t-7rrek dyal l-commits, o graphat dyal real-time stats. Hada huwa l-**WOW** factor li knti k-t-9elleb 3lih\!
 
-<br/>
-
-<h2 align="center">📈 CONTRIBUTION FLOW</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wassim7254&theme=matrix&hide_border=true&area=true" width="100%" />
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <p style="color: #00FF41; font-family: monospace;"><b>// SECURING THE FUTURE, ONE LINE AT A TIME</b></p>
-  <a href="mailto:wwassim.wassim2009@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT_ME-000000?style=for-the-badge&logo=minutemailer&logoColor=00FF41" />
-  </a>
-</div>
+**Bghiti n-zid lik chi music player dyal Spotify bach t-beyen l-nas ach k-t-t-sm3 lih f had l-7da?** (Hadi k-t-khdem b-wa7d l-API smitha Lanyard).
