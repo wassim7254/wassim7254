@@ -12,11 +12,6 @@
   </p>
 </div>
 
----
-
-### 🖥️ [ROOT] / SYSTEM / DASHBOARD
-
-```javascript
 /** MISSION_STATUS: ACTIVE 🟢 **/
 const ENGINEER = {
   identity: "Wassim Ahabchane",
@@ -64,15 +59,3 @@ const ENGINEER = {
 </a>
 </div>
 
-
-### 💡 Why the previous one broke:
-
-GitHub's markdown renderer is very sensitive to `<table>` and `<td>` tags mixed with Markdown code blocks (the ` ``` ` parts). If they aren't separated by empty lines or if a tag isn't closed perfectly, it breaks the whole page.
-
-**What I did:**
-
-  * Removed the complex `<table>` layout for the Bio and replaced it with clean Markdown.
-  * Ensured there are empty lines between HTML and Markdown sections.
-  * Simplified the "Stats" area so it stacks nicely on mobile and desktop without crashing.
-
-**Try this one now, it should look exactly like the "Wow" version you wanted.** would you like me to check if there are any other errors in your repo settings?
