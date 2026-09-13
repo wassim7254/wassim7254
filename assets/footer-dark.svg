@@ -1,1 +1,26 @@
 
+<svg width="1200" height="190" viewBox="0 0 1200 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="190" rx="18" fill="#0B0B0A"/>
+  <rect x="1" y="1" width="1198" height="188" rx="17" stroke="#292927"/>
+
+  <path d="M55 45H1145" stroke="#292927"/>
+
+  <text x="55" y="85" fill="#F4F1E8" font-family="Arial, sans-serif" font-size="25" font-weight="700">
+    BUILD. BREAK. UNDERSTAND. REBUILD.
+  </text>
+
+  <text x="55" y="113" fill="#96938A" font-family="monospace" font-size="12">
+    Wassim Ahabchane · Full-Stack Software Engineer
+  </text>
+
+  <text x="55" y="145" fill="#5F5D57" font-family="monospace" font-size="10">
+    software is interesting when the happy path is no longer enough.
+  </text>
+
+  <circle cx="1100" cy="95" r="34" stroke="#E4572E" stroke-width="1"/>
+  <circle cx="1100" cy="95" r="7" fill="#E4572E"/>
+
+  <text x="1145" y="160" fill="#5F5D57" font-family="monospace" font-size="9" text-anchor="end">
+    2026 / WASSIM.OS
+  </text>
+</svg>
