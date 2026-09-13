@@ -1,1 +1,61 @@
 
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="390" rx="18" fill="#0B0B0A"/>
+  <rect x="1" y="1" width="1198" height="388" rx="17" stroke="#292927"/>
+
+  <text x="55" y="52" fill="#E4572E" font-family="monospace" font-size="12" letter-spacing="2">
+    ENGINEERING WORKBENCH
+  </text>
+
+  <text x="55" y="88" fill="#F4F1E8" font-family="Arial, sans-serif" font-size="28" font-weight="700">
+    THE STACK IS A SYSTEM, NOT A BUZZWORD LIST.
+  </text>
+
+  <!-- frontend -->
+  <g transform="translate(55 130)">
+    <rect width="250" height="190" rx="12" fill="#111110" stroke="#292927"/>
+    <text x="20" y="32" fill="#96938A" font-family="monospace" font-size="10">01 / INTERFACE</text>
+    <text x="20" y="67" fill="#F4F1E8" font-family="monospace" font-size="17">Next.js</text>
+    <text x="20" y="94" fill="#96938A" font-family="monospace" font-size="12">React</text>
+    <text x="20" y="116" fill="#96938A" font-family="monospace" font-size="12">TypeScript</text>
+    <text x="20" y="138" fill="#96938A" font-family="monospace" font-size="12">Tailwind</text>
+    <path d="M20 158H230" stroke="#292927"/>
+    <text x="20" y="178" fill="#5F5D57" font-family="monospace" font-size="9">interaction / composition / UX</text>
+  </g>
+
+  <!-- backend -->
+  <g transform="translate(325 130)">
+    <rect width="250" height="190" rx="12" fill="#111110" stroke="#292927"/>
+    <text x="20" y="32" fill="#96938A" font-family="monospace" font-size="10">02 / DOMAIN</text>
+    <text x="20" y="67" fill="#F4F1E8" font-family="monospace" font-size="17">TypeScript</text>
+    <text x="20" y="94" fill="#96938A" font-family="monospace" font-size="12">Zod</text>
+    <text x="20" y="116" fill="#96938A" font-family="monospace" font-size="12">State machines</text>
+    <text x="20" y="138" fill="#96938A" font-family="monospace" font-size="12">Idempotency</text>
+    <path d="M20 158H230" stroke="#292927"/>
+    <text x="20" y="178" fill="#5F5D57" font-family="monospace" font-size="9">rules / invariants / failure handling</text>
+  </g>
+
+  <!-- data -->
+  <g transform="translate(595 130)">
+    <rect width="250" height="190" rx="12" fill="#111110" stroke="#292927"/>
+    <text x="20" y="32" fill="#96938A" font-family="monospace" font-size="10">03 / DATA</text>
+    <text x="20" y="67" fill="#F4F1E8" font-family="monospace" font-size="17">PostgreSQL</text>
+    <text x="20" y="94" fill="#96938A" font-family="monospace" font-size="12">Drizzle ORM</text>
+    <text x="20" y="116" fill="#96938A" font-family="monospace" font-size="12">Transactions</text>
+    <text x="20" y="138" fill="#96938A" font-family="monospace" font-size="12">Constraints</text>
+    <path d="M20 158H230" stroke="#292927"/>
+    <text x="20" y="178" fill="#5F5D57" font-family="monospace" font-size="9">truth / concurrency / durability</text>
+  </g>
+
+  <!-- infrastructure -->
+  <g transform="translate(865 130)">
+    <rect width="280" height="190" rx="12" fill="#111110" stroke="#292927"/>
+    <text x="20" y="32" fill="#96938A" font-family="monospace" font-size="10">04 / INFRASTRUCTURE</text>
+    <text x="20" y="67" fill="#F4F1E8" font-family="monospace" font-size="17">Docker</text>
+    <text x="20" y="94" fill="#96938A" font-family="monospace" font-size="12">Outbox</text>
+    <text x="20" y="116" fill="#96938A" font-family="monospace" font-size="12">Audit trail</text>
+    <text x="20" y="138" fill="#96938A" font-family="monospace" font-size="12">Background jobs</text>
+    <path d="M20 158H260" stroke="#292927"/>
+    <text x="20" y="178" fill="#5F5D57" font-family="monospace" font-size="9">observability / recovery / operations</text>
+  </g>
+</svg>
