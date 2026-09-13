@@ -1,81 +1,158 @@
-<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="1200" height="430" rx="18" fill="#0A0A09"/>
-<rect x="1" y="1" width="1198" height="428" rx="17" stroke="#292927"/>
+<svg width="1200" height="580" viewBox="0 0 1200 580" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="580">
+    <stop stop-color="#090908"/>
+    <stop offset="1" stop-color="#11110F"/>
+  </linearGradient>
 
-<text x="55" y="55" fill="#E4572E" font-family="monospace" font-size="12" letter-spacing="2">
-04 / MISSION CONTROL
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="6"/>
+  </filter>
+</defs>
+
+<rect width="1200" height="580" rx="24" fill="url(#bg)"/>
+
+<text x="52" y="55"
+      fill="#F4F1E8"
+      font-family="monospace"
+      font-size="15"
+      letter-spacing="4">
+  MISSION CONTROL / HEALTH
 </text>
 
-<text x="55" y="94" fill="#F5F2E9" font-family="Arial, sans-serif" font-size="31" font-weight="700">
-WHAT'S ON THE DESK.
+<text x="52" y="82"
+      fill="#68665F"
+      font-family="monospace"
+      font-size="11">
+  systems are observed, not assumed
 </text>
 
-<!-- DBER -->
-<g transform="translate(55 130)">
-<rect width="530" height="230" rx="14" fill="#111110" stroke="#E4572E" stroke-opacity=".5"/>
+<!-- status cards -->
+<g font-family="monospace">
+  <rect x="55" y="120" width="250" height="90" rx="12"
+        fill="#11110F" stroke="#292927"/>
+  <circle cx="82" cy="150" r="5" fill="#62D38A"/>
+  <text x="100" y="154" fill="#77746B" font-size="9">API</text>
+  <text x="75" y="185" fill="#F4F1E8" font-size="17">99.9%</text>
+  <text x="185" y="185" fill="#62D38A" font-size="9">HEALTHY</text>
 
-<text x="25" y="35" fill="#E4572E" font-family="monospace" font-size="10">
-ACTIVE / 01
-</text>
+  <rect x="325" y="120" width="250" height="90" rx="12"
+        fill="#11110F" stroke="#292927"/>
+  <circle cx="352" cy="150" r="5" fill="#62D38A"/>
+  <text x="370" y="154" fill="#77746B" font-size="9">DATABASE</text>
+  <text x="345" y="185" fill="#F4F1E8" font-size="17">READY</text>
+  <text x="470" y="185" fill="#62D38A" font-size="9">CONNECTED</text>
 
-<text x="25" y="75" fill="#F5F2E9" font-family="Arial, sans-serif" font-size="25" font-weight="700">
-DBER
-</text>
+  <rect x="595" y="120" width="250" height="90" rx="12"
+        fill="#11110F" stroke="#292927"/>
+  <circle cx="622" cy="150" r="5" fill="#D6A756"/>
+  <text x="640" y="154" fill="#77746B" font-size="9">QUEUE</text>
+  <text x="615" y="185" fill="#F4F1E8" font-size="17">12</text>
+  <text x="690" y="185" fill="#D6A756" font-size="9">PENDING</text>
 
-<text x="25" y="103" fill="#B0ADA4" font-family="monospace" font-size="11">
-Unified transactional engine
-</text>
-
-<path d="M25 122H505" stroke="#292927"/>
-
-<text x="25" y="150" fill="#8E8B83" font-family="monospace" font-size="10">
-FOCUS
-</text>
-
-<text x="25" y="173" fill="#F5F2E9" font-family="monospace" font-size="11">
-transactions / concurrency / state machines
-</text>
-
-<text x="25" y="196" fill="#B0ADA4" font-family="monospace" font-size="11">
-idempotency / audit / outbox / recovery
-</text>
-
-<text x="25" y="216" fill="#55534E" font-family="monospace" font-size="9">
-Next.js · TypeScript · PostgreSQL · Drizzle
-</text>
+  <rect x="865" y="120" width="280" height="90" rx="12"
+        fill="#11110F" stroke="#292927"/>
+  <circle cx="892" cy="150" r="5" fill="#62D38A"/>
+  <text x="910" y="154" fill="#77746B" font-size="9">WORKERS</text>
+  <text x="885" y="185" fill="#F4F1E8" font-size="17">4 / 4</text>
+  <text x="980" y="185" fill="#62D38A" font-size="9">RUNNING</text>
 </g>
 
-<!-- LEARNING -->
-<g transform="translate(615 130)">
-<rect width="530" height="105" rx="14" fill="#111110" stroke="#292927"/>
+<!-- heartbeat -->
+<rect x="55" y="240" width="690" height="270" rx="14"
+      fill="#0D0D0C" stroke="#292927"/>
 
-<text x="25" y="30" fill="#D6A756" font-family="monospace" font-size="10">
-LEARNING / 02
+<text x="80" y="275"
+      fill="#77746B"
+      font-family="monospace"
+      font-size="9">
+  SYSTEM HEARTBEAT
 </text>
 
-<text x="25" y="61" fill="#F5F2E9" font-family="monospace" font-size="14">
-production-grade backend engineering
+<path
+  d="M80 390
+     H180
+     L205 390
+     L225 345
+     L250 435
+     L280 390
+     H350
+     L375 365
+     L395 410
+     L420 390
+     H520
+     L545 350
+     L570 430
+     L600 390
+     H690"
+  stroke="#62D38A"
+  stroke-width="3"
+  fill="none"/>
+
+<path
+  d="M80 390
+     H180
+     L205 390
+     L225 345
+     L250 435
+     L280 390
+     H350
+     L375 365
+     L395 410
+     L420 390
+     H520
+     L545 350
+     L570 430
+     L600 390
+     H690"
+  stroke="#62D38A"
+  stroke-width="12"
+  opacity=".12"
+  filter="url(#glow)"
+  fill="none"/>
+
+<circle cx="690" cy="390" r="6" fill="#62D38A">
+  <animate attributeName="r" values="5;10;5" dur="1.5s" repeatCount="indefinite"/>
+</circle>
+
+<!-- event stream -->
+<rect x="775" y="240" width="370" height="270" rx="14"
+      fill="#0D0D0C" stroke="#292927"/>
+
+<text x="800" y="275"
+      fill="#77746B"
+      font-family="monospace"
+      font-size="9">
+  EVENT STREAM
 </text>
 
-<text x="25" y="84" fill="#55534E" font-family="monospace" font-size="9">
-ACID · isolation · locks · failure modes
-</text>
+<g font-family="monospace" font-size="9">
+  <text x="800" y="315" fill="#55534D">21:04:01</text>
+  <text x="875" y="315" fill="#E4572E">order.created</text>
+
+  <text x="800" y="350" fill="#55534D">21:04:02</text>
+  <text x="875" y="350" fill="#D6A756">payment.authorized</text>
+
+  <text x="800" y="385" fill="#55534D">21:04:03</text>
+  <text x="875" y="385" fill="#8B7CFF">audit.recorded</text>
+
+  <text x="800" y="420" fill="#55534D">21:04:04</text>
+  <text x="875" y="420" fill="#62D38A">outbox.processed</text>
+
+  <text x="800" y="455" fill="#55534D">21:04:05</text>
+  <text x="875" y="455" fill="#62D38A">completed</text>
 </g>
 
-<!-- PRODUCT -->
-<g transform="translate(615 255)">
-<rect width="530" height="105" rx="14" fill="#111110" stroke="#292927"/>
+<!-- scanning line -->
+<rect x="790" y="292" width="330" height="1" fill="#62D38A" opacity=".5">
+  <animate attributeName="y" values="292;480;292" dur="4s" repeatCount="indefinite"/>
+</rect>
 
-<text x="25" y="30" fill="#E4572E" font-family="monospace" font-size="10">
-EXPLORING / 03
+<text x="600" y="545"
+      text-anchor="middle"
+      fill="#55534D"
+      font-family="monospace"
+      font-size="9">
+  OBSERVE → DETECT → RECOVER
 </text>
-
-<text x="25" y="61" fill="#F5F2E9" font-family="monospace" font-size="14">
-product engineering
-</text>
-
-<text x="25" y="84" fill="#55534E" font-family="monospace" font-size="9">
-from interface → domain → system → product
-</text>
-</g>
 </svg>
