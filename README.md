@@ -1,35 +1,77 @@
+<!-- =========================================================
+     WASSIM AHABCHANE — GITHUB PROFILE
+     ========================================================= -->
+
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Wassim Ahabchane — Software Engineer">
+  <img
+    src="./assets/hero-dark.svg"
+    alt="Wassim Ahabchane — Software Engineer"
+    width="100%"
+  />
 </p>
 
-<br>
-
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-0A0A09?style=flat-square&logo=github&logoColor=F5F2E9">
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A09?style=flat-square&logo=linkedin&logoColor=F5F2E9">
+  <a href="https://github.com/wassim7254">
+    <img src="https://img.shields.io/badge/GitHub-wassim7254-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-0A0A09?style=flat-square&logo=gmail&logoColor=F5F2E9">
+    <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<br>
+<br />
+
+<p align="center">
+  <img
+    src="./assets/profile-wave.svg"
+    alt=""
+    width="100%"
+  />
+</p>
+
+---
 
 # 00 · FIELD NOTES
 
+> Software engineer focused on building systems that remain understandable when they stop being simple.
+
+I like the part of software where the prototype ends and the real engineering begins.
+
+The state transitions.
+
+The database.
+
+The failure modes.
+
+The race conditions.
+
+The API contract.
+
+The boring edge case that becomes a production incident.
+
+My current work sits mostly around **TypeScript, Next.js, PostgreSQL, backend architecture and transactional systems**.
+
+I'm especially interested in the intersection between product engineering and systems engineering:
+
 ```text
-LOG / 2026-09
-Building DBER — a transactional engine for marketplace workflows.
-
-LOG / 2026-09
-Going deeper into backend engineering:
-transactions, concurrency, isolation, locking and failure recovery.
-
-LOG / ONGOING
-Exploring what makes software reliable after the happy path disappears.
-
-LOG / ONGOING
-Building interfaces with the same attention I give to the systems underneath them.
+             PRODUCT
+                │
+                ▼
+          ┌───────────┐
+          │   DOMAIN  │
+          └─────┬─────┘
+                │
+       ┌────────┼────────┐
+       ▼        ▼        ▼
+    STATE    DATA     FAILURE
+   MACHINE   MODEL     MODES
+       │        │        │
+       └────────┼────────┘
+                ▼
+          TRANSACTION
+                │
+                ▼
+           POSTGRESQL
+                │
+                ▼
+        SOMETHING RELIABLE
