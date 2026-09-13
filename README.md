@@ -1,52 +1,35 @@
 <p align="center">
-  <img src="./assets/hero-dark.svg" alt="Wassim Ahabchane — Full-Stack Software Engineer" width="100%">
+  <img src="./assets/hero.svg" width="100%" alt="Wassim Ahabchane — Software Engineer">
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/wassimahabchane">
-    <img src="https://img.shields.io/badge/GitHub-0B0B0A?style=flat-square&logo=github&logoColor=F4F1E8" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-0A0A09?style=flat-square&logo=github&logoColor=F5F2E9">
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0B0B0A?style=flat-square&logo=linkedin&logoColor=F4F1E8" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A09?style=flat-square&logo=linkedin&logoColor=F5F2E9">
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-0B0B0A?style=flat-square&logo=gmail&logoColor=F4F1E8" />
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-0A0A09?style=flat-square&logo=gmail&logoColor=F5F2E9">
   </a>
 </p>
 
 <br>
 
-<img src="./assets/profile-wave.svg" alt="Wassim engineering profile" width="100%">
-
-<br>
-
-## / DBER
-
-I'm currently building **DBER**, a unified transactional engine designed around three marketplace domains:
-
-- **SOUQ** — social group-buy marketplace
-- **KHIDMA** — professional services marketplace
-- **KRAYA** — rental marketplace
-
-The interesting part isn't the marketplace UI.
-
-It's everything that has to remain correct when reality happens:
+# 00 · FIELD NOTES
 
 ```text
-duplicate requests
-      ↓
-concurrency
-      ↓
-state transitions
-      ↓
-database constraints
-      ↓
-transactions
-      ↓
-audit trail
-      ↓
-outbox
-      ↓
-recoverable side effects
+LOG / 2026-09
+Building DBER — a transactional engine for marketplace workflows.
+
+LOG / 2026-09
+Going deeper into backend engineering:
+transactions, concurrency, isolation, locking and failure recovery.
+
+LOG / ONGOING
+Exploring what makes software reliable after the happy path disappears.
+
+LOG / ONGOING
+Building interfaces with the same attention I give to the systems underneath them.
