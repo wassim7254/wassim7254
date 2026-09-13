@@ -1,0 +1,117 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="600" rx="18" fill="#0A0A09"/>
+<rect x="1" y="1" width="1198" height="598" rx="17" stroke="#292927"/>
+
+<text x="55" y="55" fill="#E4572E" font-family="monospace" font-size="12" letter-spacing="2">
+01 / STACK
+</text>
+
+<text x="55" y="95" fill="#F5F2E9" font-family="Arial, sans-serif" font-size="32" font-weight="700">
+TOOLS I USE TO TURN IDEAS INTO SOFTWARE.
+</text>
+
+<text x="55" y="125" fill="#8E8B83" font-family="monospace" font-size="12">
+not a checklist — a working toolbox.
+</text>
+
+<!-- FRONTEND -->
+<g transform="translate(55 160)">
+<rect width="250" height="180" rx="12" fill="#111110" stroke="#292927"/>
+<text x="20" y="30" fill="#E4572E" font-family="monospace" font-size="10">01 / FRONTEND</text>
+
+<text x="20" y="65" fill="#F5F2E9" font-family="monospace" font-size="15">Next.js</text>
+<text x="20" y="91" fill="#B0ADA4" font-family="monospace" font-size="13">React</text>
+<text x="20" y="117" fill="#B0ADA4" font-family="monospace" font-size="13">TypeScript</text>
+<text x="20" y="143" fill="#B0ADA4" font-family="monospace" font-size="13">Tailwind CSS</text>
+
+<text x="20" y="166" fill="#55534E" font-family="monospace" font-size="9">
+interfaces / UX / composition
+</text>
+</g>
+
+<!-- BACKEND -->
+<g transform="translate(325 160)">
+<rect width="250" height="180" rx="12" fill="#111110" stroke="#292927"/>
+<text x="20" y="30" fill="#D6A756" font-family="monospace" font-size="10">02 / BACKEND</text>
+
+<text x="20" y="65" fill="#F5F2E9" font-family="monospace" font-size="15">TypeScript</text>
+<text x="20" y="91" fill="#B0ADA4" font-family="monospace" font-size="13">Node.js</text>
+<text x="20" y="117" fill="#B0ADA4" font-family="monospace" font-size="13">Zod</text>
+<text x="20" y="143" fill="#B0ADA4" font-family="monospace" font-size="13">REST APIs</text>
+
+<text x="20" y="166" fill="#55534E" font-family="monospace" font-size="9">
+domains / validation / workflows
+</text>
+</g>
+
+<!-- DATA -->
+<g transform="translate(595 160)">
+<rect width="250" height="180" rx="12" fill="#111110" stroke="#292927"/>
+<text x="20" y="30" fill="#E4572E" font-family="monospace" font-size="10">03 / DATA</text>
+
+<text x="20" y="65" fill="#F5F2E9" font-family="monospace" font-size="15">PostgreSQL</text>
+<text x="20" y="91" fill="#B0ADA4" font-family="monospace" font-size="13">Drizzle ORM</text>
+<text x="20" y="117" fill="#B0ADA4" font-family="monospace" font-size="13">SQL</text>
+<text x="20" y="143" fill="#B0ADA4" font-family="monospace" font-size="13">Transactions</text>
+
+<text x="20" y="166" fill="#55534E" font-family="monospace" font-size="9">
+constraints / concurrency / truth
+</text>
+</g>
+
+<!-- ENGINEERING -->
+<g transform="translate(865 160)">
+<rect width="280" height="180" rx="12" fill="#111110" stroke="#292927"/>
+<text x="20" y="30" fill="#D6A756" font-family="monospace" font-size="10">04 / ENGINEERING</text>
+
+<text x="20" y="65" fill="#F5F2E9" font-family="monospace" font-size="13">State Machines</text>
+<text x="20" y="91" fill="#B0ADA4" font-family="monospace" font-size="13">Idempotency</text>
+<text x="20" y="117" fill="#B0ADA4" font-family="monospace" font-size="13">Concurrency</text>
+<text x="20" y="143" fill="#B0ADA4" font-family="monospace" font-size="13">Audit + Outbox</text>
+
+<text x="20" y="166" fill="#55534E" font-family="monospace" font-size="9">
+correctness / recovery / failure
+</text>
+</g>
+
+<!-- TOOLCHAIN -->
+<g transform="translate(55 370)">
+<rect width="1090" height="170" rx="12" fill="#111110" stroke="#292927"/>
+
+<text x="25" y="34" fill="#8E8B83" font-family="monospace" font-size="10">
+TOOLCHAIN
+</text>
+
+<text x="25" y="72" fill="#F5F2E9" font-family="monospace" font-size="13">
+Git
+</text>
+<text x="150" y="72" fill="#B0ADA4" font-family="monospace" font-size="13">
+GitHub
+</text>
+<text x="290" y="72" fill="#B0ADA4" font-family="monospace" font-size="13">
+Docker
+</text>
+<text x="430" y="72" fill="#B0ADA4" font-family="monospace" font-size="13">
+PostgreSQL
+</text>
+<text x="610" y="72" fill="#B0ADA4" font-family="monospace" font-size="13">
+Drizzle
+</text>
+<text x="750" y="72" fill="#B0ADA4" font-family="monospace" font-size="13">
+VS Code
+</text>
+<text x="890" y="72" fill="#B0ADA4" font-family="monospace" font-size="13">
+Linux
+</text>
+
+<path d="M25 92H1065" stroke="#292927"/>
+
+<text x="25" y="125" fill="#55534E" font-family="monospace" font-size="10">
+I care less about collecting technologies and more about knowing why a technology belongs in the system.
+</text>
+
+<text x="25" y="145" fill="#55534E" font-family="monospace" font-size="10">
+the stack changes. the engineering standards don't.
+</text>
+</g>
+</svg>
