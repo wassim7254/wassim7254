@@ -1,1 +1,58 @@
 
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="420" rx="18" fill="#0B0B0A"/>
+  <rect x="1" y="1" width="1198" height="418" rx="17" stroke="#292927"/>
+
+  <g opacity="0.35">
+    <path d="M0 80H1200M0 160H1200M0 240H1200M0 320H1200" stroke="#292927"/>
+    <path d="M100 0V420M200 0V420M300 0V420M400 0V420M500 0V420M600 0V420M700 0V420M800 0V420M900 0V420M1000 0V420M1100 0V420" stroke="#292927"/>
+  </g>
+
+  <circle cx="1010" cy="95" r="190" stroke="#292927" stroke-width="1"/>
+  <circle cx="1010" cy="95" r="130" stroke="#292927" stroke-width="1"/>
+  <circle cx="1010" cy="95" r="70" stroke="#E4572E" stroke-width="1" opacity="0.7"/>
+
+  <text x="70" y="82" fill="#96938A" font-family="monospace" font-size="13" letter-spacing="3">
+    SOFTWARE ENGINEER / FULL-STACK
+  </text>
+
+  <text x="70" y="155" fill="#F4F1E8" font-family="Arial, sans-serif" font-size="64" font-weight="700">
+    WASSIM
+  </text>
+
+  <text x="70" y="218" fill="#F4F1E8" font-family="Arial, sans-serif" font-size="64" font-weight="700">
+    AHABCHANE
+  </text>
+
+  <rect x="72" y="248" width="46" height="3" fill="#E4572E"/>
+
+  <text x="70" y="285" fill="#96938A" font-family="monospace" font-size="15">
+    I build software systems that are meant to survive reality.
+  </text>
+
+  <text x="70" y="318" fill="#96938A" font-family="monospace" font-size="13">
+    product · architecture · backend · transactions · interfaces
+  </text>
+
+  <g transform="translate(805 265)">
+    <rect width="300" height="92" rx="10" fill="#111110" stroke="#292927"/>
+    <circle cx="20" cy="20" r="4" fill="#E4572E"/>
+    <text x="35" y="24" fill="#96938A" font-family="monospace" font-size="11">
+      SYSTEM STATUS
+    </text>
+    <text x="20" y="52" fill="#F4F1E8" font-family="monospace" font-size="13">
+      DBER / IN DEVELOPMENT
+    </text>
+    <text x="20" y="74" fill="#96938A" font-family="monospace" font-size="11">
+      postgres · typescript · next.js
+    </text>
+  </g>
+
+  <text x="70" y="380" fill="#5F5D57" font-family="monospace" font-size="11">
+    001 / PROFILE
+  </text>
+
+  <text x="1090" y="380" fill="#5F5D57" font-family="monospace" font-size="11" text-anchor="end">
+    2026
+  </text>
+</svg>
